@@ -219,18 +219,18 @@ span{
         margin-top: 70px;
     }
 
-    .flower-content img{
+    /* .flower-content img{
         width: 330px;
         height: 370px;
         border-radius: 5px;
         box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.137);
-    }
+    } */
 
     .flower-content img:hover{
         transform: scale(1.1);
         transition: all .4s;
         
-    }
+    }  
 
     /* contact section */
 
